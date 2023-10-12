@@ -1,0 +1,245 @@
+*{
+    margin: 0;
+}
+
+@font-face {
+    font-family: arimo-regular ;
+    src: url(fonts/Arimo-Regular.ttf);
+}
+
+@font-face {
+    font-family: arimo-semibold;
+    src: url(fonts/Arimo-SemiBold.ttf);
+}
+
+@font-face {
+    font-family: arimo-medium ;
+    src: url(fonts/Arimo-Medium.ttf);
+}
+
+.greencircle{
+    background-color: #7ED957;
+    position: absolute;
+    top: 13%;
+    left: 12.5%;
+    border-radius: 50%;
+    width: 50px;
+    height: 50px;
+}
+
+.enlinea{
+    position: absolute;
+    top: 13.5%;
+    left: 19%;
+    font-family: arimo-regular;
+    font-size: 200%;
+}
+
+.soluciones{
+    position: absolute;
+    top: 15.5%;
+    right: 12%;
+    font-family: arimo-regular;
+}
+
+.img1{
+    position: relative;
+    top: -320px;
+}
+
+.text1img1{
+    position: absolute;
+    list-style: none;
+    margin: -1020px 0 0 20px;
+    color: white;
+    font-family: arimo-regular;
+    font-size: 200%;
+    font-weight: 600;
+    background-color: #00BF63;
+    padding-left: 170px ;
+    padding-right: 30px ;
+}
+
+.text2img1{
+    position: absolute;
+    list-style: none;
+    margin: -980px 0 0 30px;
+    color: white;
+    font-family: arimo-regular;
+    font-size: 200%;
+    font-weight: 600;
+    background-color: #00BF63;
+    padding-left: 160px;
+}
+
+.text3img1{
+    position: absolute;
+    list-style: none;
+    margin: -942px 0 0 30px;
+    color: white;
+    font-family: arimo-regular;
+    font-size: 200%;
+    font-weight: 600;
+    background-color: #00BF63;
+    padding-left: 160px;
+    padding-right: 155px;
+}
+
+.text4img1{
+    position: absolute;
+    color: white;
+    font-family: arimo-regular;
+    margin: -850px 0 0 30px;
+    background-color: black;
+    padding-left: 160px ;
+    padding-right: 40px;
+    font-size: 120%;
+}
+.text5img1{
+    position: absolute;
+    color: white;
+    font-family: arimo-regular;
+    margin: -825px 0 0 50px;
+    background-color: black;
+    padding-left: 140px ;
+    padding-right: 125px;
+    font-size: 120%;
+}
+
+.solucionescreativas{
+    position: absolute;
+    top: 160%;
+    left: 190px;
+    font-size: 200%; 
+    font-family: arimo-semibold;
+    color: #202020;
+}
+
+.textundersolcre{
+    position: absolute;
+    font-family: arimo-regular;
+    font-size: 105%;
+    top: 168%;
+    left: 191px;
+}
+
+.imgizq{
+    position: absolute;
+    top: 170%;
+    left: 192px;
+}
+
+.imgcen{
+    position: absolute;
+    top: 172%;
+    left: 525px;
+}
+
+.imgder{
+    position: absolute;
+    top: 174.5%;
+    left: 835px;
+}
+
+.disenho{
+    position: absolute;
+    top: 216.5%;
+    left: 191px;
+}
+
+.titledisenho{
+    position: absolute;
+    top: 14%;
+    left: 40px;
+    font-size: 22px ;
+    font-family: arimo-medium;
+    font-weight: 600;
+}
+
+.desarrollo{
+    position: absolute;
+    top: 217.5%;
+    left: 524px;
+}
+
+.titledesarrollo{
+    position: absolute;
+    top: 2%;
+    left: 45px;
+    font-size: 22px;
+    font-family: arimo-medium;
+    font-weight: 600;
+}
+
+.publicacion{
+    position: absolute;
+    top: 217.5%;
+    left: 856px;
+}
+
+.titlepublicacion{
+    position: absolute;
+    top: 2%;
+    left: 47px;
+    font-size: 22px;
+    font-family: arimo-medium;
+    font-weight: 600;   
+}
+
+.textdisenho{
+    position: relative;
+    list-style: none;
+    top: 10px;
+    left: -40px;
+    font-family: arimo-regular;
+}
+
+.textdesarrollo{
+    position: relative;
+    list-style: none;
+    top: 10%;
+    left: -40px;
+    font-family: arimo-regular;
+}
+
+.textpublicacion{
+    position: relative;
+    list-style: none;
+    top: 10%;
+    left: -40px;
+    font-family: arimo-regular;
+}
+
+footer{
+    height: 80px;
+    width: 95%;
+    margin: -200px 35px 15px 35px;
+    background-color: #00BF63;
+}
+
+.edif{
+    position: absolute;
+    top: 252%;
+    left: 190px ;
+    color: #EEEEEE;
+    font-family: arimo-regular;
+    font-size: 115%;
+}
+
+.pagina{
+    position: absolute;
+    top: 252%;
+    left: 47%;
+    color: #EEEEEE;
+    font-family: arimo-regular;
+    font-size: 115%;
+}
+
+.numero{
+    position: absolute;
+    top: 252%;
+    left: 75%;
+    color: #EEEEEE;
+    font-family: arimo-regular;
+    font-size: 115%;
+}
